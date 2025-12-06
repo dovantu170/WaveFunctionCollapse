@@ -1,4 +1,4 @@
-# WaveFunctionCollapse
+# WaveFunctionCollapse 2
 This program generates bitmaps that are locally similar to the input bitmap.
 <p align="center"><img alt="main collage" src="images/wfc.png"></p>
 <p align="center"><img alt="main gif" src="images/wfc.gif"></p>
